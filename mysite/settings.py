@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "django2-mysite.dev",
-    "0.0.0.0"
+    "0.0.0.0",
     "pythondemo.c.cloudtogo.cn"
 ]
 
