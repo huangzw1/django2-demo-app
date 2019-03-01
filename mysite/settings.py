@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "django2-mysite.dev",
-    "127.0.0.1"
+    "0.0.0.0"
 ]
 
 
